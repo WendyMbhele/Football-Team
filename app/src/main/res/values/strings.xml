@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Football Team</string>
+    <string name="button2">button2</string>
+    <string name="button1">button1</string>
+    <string name="editText1">Name of City</string>
+    <string name="textView3">"Input Name of South African City and Press Enter Below "</string>
+    <string name="button3">button3</string>
+    <string name="button4">Enter</string>
+    <string name="button5">Enter</string>
+    <string name="button6">Clear</string>
+    <string name="button7">Exit</string>
+</resources>
